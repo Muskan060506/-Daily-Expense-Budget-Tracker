@@ -16,18 +16,7 @@ The **Daily Expense & Budget Tracker** is a Java-based application that helps us
 - Object-Oriented Programming (OOP)  
 - Collections (ArrayList)  
 - File Handling
-- 
-##  Project Structure
-ExpenseTracker/
-├── src/
-│ ├── Main.java
-│ ├── Expense.java
-│ ├── ExpenseManager.java
-│ ├── FileHandler.java
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+  
 
 
 ##  How to Run
